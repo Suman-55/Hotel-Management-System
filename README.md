@@ -114,10 +114,3 @@ Overall, it is huge area and we tried to cover most of the parts of it. If we se
 run, the world is changing and now everything is digitalize so this will be a productive and to 
 optimize work load of everyone and reduce human efforts and work load and replace manual 
 paper work.
-
-FOR MORE DETAILED EXPLANATION, PLEASE REVIEW OUR PROJECT REPORT WHICH CONTAINS UI IMAGES AND MORE VALUABLE INFORMATION!
-
-## Extended Software Documentation Repository Link:
-> https://github.com/aliasar1/Hotel-Management-System-Documentation
-
-HAPPY CODING! :D
